@@ -1,0 +1,14 @@
+Z:\Noven\Program\Server-remote\Server-remote\bin\Debug\Server-remote.exe.config
+Z:\Noven\Program\Server-remote\Server-remote\bin\Debug\Server-remote.exe
+Z:\Noven\Program\Server-remote\Server-remote\bin\Debug\Server-remote.pdb
+Z:\Noven\Program\Server-remote\Server-remote\obj\Debug\Server-remote.csprojResolveAssemblyReference.cache
+Z:\Noven\Program\Server-remote\Server-remote\obj\Debug\Server_remote.Form1.resources
+Z:\Noven\Program\Server-remote\Server-remote\obj\Debug\Server_remote.Form2.resources
+Z:\Noven\Program\Server-remote\Server-remote\obj\Debug\Server_remote.Properties.Resources.resources
+Z:\Noven\Program\Server-remote\Server-remote\obj\Debug\Server-remote.csproj.GenerateResource.Cache
+Z:\Noven\Program\Server-remote\Server-remote\obj\Debug\Server-remote.exe
+Z:\Noven\Program\Server-remote\Server-remote\obj\Debug\Server-remote.pdb
+Z:\Noven\Program\Server-remote\Server-remote\bin\Debug\Server-remote.exe.manifest
+Z:\Noven\Program\Server-remote\Server-remote\bin\Debug\Server-remote.application
+Z:\Noven\Program\Server-remote\Server-remote\obj\Debug\Server-remote.exe.manifest
+Z:\Noven\Program\Server-remote\Server-remote\obj\Debug\Server-remote.application
